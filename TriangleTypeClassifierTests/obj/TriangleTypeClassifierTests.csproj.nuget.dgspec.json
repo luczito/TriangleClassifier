@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cheffer\\Desktop\\Job stuff\\Take_Home_Tasks\\SimCorp\\TriangleTypeClassifierTests\\TriangleTypeClassifierTests.csproj": {}
+    "C:\\Users\\LF\\Desktop\\CV og ansøgninger\\Tasks\\TriangleClassifier\\TriangleTypeClassifierTests\\TriangleTypeClassifierTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cheffer\\Desktop\\Job stuff\\Take_Home_Tasks\\SimCorp\\TriangleTypeClassifierTests\\TriangleTypeClassifierTests.csproj": {
+    "C:\\Users\\LF\\Desktop\\CV og ansøgninger\\Tasks\\TriangleClassifier\\TriangleTypeClassifierTests\\TriangleTypeClassifierTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cheffer\\Desktop\\Job stuff\\Take_Home_Tasks\\SimCorp\\TriangleTypeClassifierTests\\TriangleTypeClassifierTests.csproj",
+        "projectUniqueName": "C:\\Users\\LF\\Desktop\\CV og ansøgninger\\Tasks\\TriangleClassifier\\TriangleTypeClassifierTests\\TriangleTypeClassifierTests.csproj",
         "projectName": "TriangleTypeClassifierTests",
-        "projectPath": "C:\\Users\\Cheffer\\Desktop\\Job stuff\\Take_Home_Tasks\\SimCorp\\TriangleTypeClassifierTests\\TriangleTypeClassifierTests.csproj",
-        "packagesPath": "C:\\Users\\Cheffer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cheffer\\Desktop\\Job stuff\\Take_Home_Tasks\\SimCorp\\TriangleTypeClassifierTests\\obj\\",
+        "projectPath": "C:\\Users\\LF\\Desktop\\CV og ansøgninger\\Tasks\\TriangleClassifier\\TriangleTypeClassifierTests\\TriangleTypeClassifierTests.csproj",
+        "packagesPath": "C:\\Users\\LF\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LF\\Desktop\\CV og ansøgninger\\Tasks\\TriangleClassifier\\TriangleTypeClassifierTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Cheffer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\LF\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -24,10 +24,11 @@
         },
         "frameworks": {
           "net9.0": {
+            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Cheffer\\Desktop\\Job stuff\\Take_Home_Tasks\\SimCorp\\TriangleTypeClassifier\\TriangleTypeClassifier.csproj": {
-                "projectPath": "C:\\Users\\Cheffer\\Desktop\\Job stuff\\Take_Home_Tasks\\SimCorp\\TriangleTypeClassifier\\TriangleTypeClassifier.csproj"
+              "C:\\Users\\LF\\Desktop\\CV og ansøgninger\\Tasks\\TriangleClassifier\\TriangleTypeClassifier\\TriangleTypeClassifier.csproj": {
+                "projectPath": "C:\\Users\\LF\\Desktop\\CV og ansøgninger\\Tasks\\TriangleClassifier\\TriangleTypeClassifier\\TriangleTypeClassifier.csproj"
               }
             }
           }
@@ -42,10 +43,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
@@ -80,26 +82,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.17, 9.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.17, 9.0.17]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.17, 9.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Cheffer\\Desktop\\Job stuff\\Take_Home_Tasks\\SimCorp\\TriangleTypeClassifier\\TriangleTypeClassifier.csproj": {
+    "C:\\Users\\LF\\Desktop\\CV og ansøgninger\\Tasks\\TriangleClassifier\\TriangleTypeClassifier\\TriangleTypeClassifier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cheffer\\Desktop\\Job stuff\\Take_Home_Tasks\\SimCorp\\TriangleTypeClassifier\\TriangleTypeClassifier.csproj",
+        "projectUniqueName": "C:\\Users\\LF\\Desktop\\CV og ansøgninger\\Tasks\\TriangleClassifier\\TriangleTypeClassifier\\TriangleTypeClassifier.csproj",
         "projectName": "TriangleTypeClassifier",
-        "projectPath": "C:\\Users\\Cheffer\\Desktop\\Job stuff\\Take_Home_Tasks\\SimCorp\\TriangleTypeClassifier\\TriangleTypeClassifier.csproj",
-        "packagesPath": "C:\\Users\\Cheffer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cheffer\\Desktop\\Job stuff\\Take_Home_Tasks\\SimCorp\\TriangleTypeClassifier\\obj\\",
+        "projectPath": "C:\\Users\\LF\\Desktop\\CV og ansøgninger\\Tasks\\TriangleClassifier\\TriangleTypeClassifier\\TriangleTypeClassifier.csproj",
+        "packagesPath": "C:\\Users\\LF\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LF\\Desktop\\CV og ansøgninger\\Tasks\\TriangleClassifier\\TriangleTypeClassifier\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Cheffer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\LF\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -109,6 +125,7 @@
         },
         "frameworks": {
           "net9.0": {
+            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {}
           }
@@ -123,10 +140,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "imports": [
             "net461",
@@ -139,12 +157,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.17, 9.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[9.0.17, 9.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.17, 9.0.17]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.17, 9.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

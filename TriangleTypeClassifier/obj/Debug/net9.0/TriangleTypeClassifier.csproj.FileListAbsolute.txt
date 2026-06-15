@@ -12,3 +12,18 @@ C:\Users\Cheffer\Desktop\Job stuff\Take_Home_Tasks\SimCorp\TriangleTypeClassifie
 C:\Users\Cheffer\Desktop\Job stuff\Take_Home_Tasks\SimCorp\TriangleTypeClassifier\obj\Debug\net9.0\TriangleTypeClassifier.pdb
 C:\Users\Cheffer\Desktop\Job stuff\Take_Home_Tasks\SimCorp\TriangleTypeClassifier\obj\Debug\net9.0\TriangleTypeClassifier.genruntimeconfig.cache
 C:\Users\Cheffer\Desktop\Job stuff\Take_Home_Tasks\SimCorp\TriangleTypeClassifier\obj\Debug\net9.0\ref\TriangleTypeClassifier.dll
+C:\Users\LF\Desktop\CV og ansøgninger\Tasks\TriangleClassifier\TriangleTypeClassifier\bin\Debug\net9.0\TriangleTypeClassifier.exe
+C:\Users\LF\Desktop\CV og ansøgninger\Tasks\TriangleClassifier\TriangleTypeClassifier\bin\Debug\net9.0\TriangleTypeClassifier.deps.json
+C:\Users\LF\Desktop\CV og ansøgninger\Tasks\TriangleClassifier\TriangleTypeClassifier\bin\Debug\net9.0\TriangleTypeClassifier.runtimeconfig.json
+C:\Users\LF\Desktop\CV og ansøgninger\Tasks\TriangleClassifier\TriangleTypeClassifier\bin\Debug\net9.0\TriangleTypeClassifier.dll
+C:\Users\LF\Desktop\CV og ansøgninger\Tasks\TriangleClassifier\TriangleTypeClassifier\bin\Debug\net9.0\TriangleTypeClassifier.pdb
+C:\Users\LF\Desktop\CV og ansøgninger\Tasks\TriangleClassifier\TriangleTypeClassifier\obj\Debug\net9.0\TriangleTypeClassifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LF\Desktop\CV og ansøgninger\Tasks\TriangleClassifier\TriangleTypeClassifier\obj\Debug\net9.0\TriangleTypeClassifier.AssemblyInfoInputs.cache
+C:\Users\LF\Desktop\CV og ansøgninger\Tasks\TriangleClassifier\TriangleTypeClassifier\obj\Debug\net9.0\TriangleTypeClassifier.AssemblyInfo.cs
+C:\Users\LF\Desktop\CV og ansøgninger\Tasks\TriangleClassifier\TriangleTypeClassifier\obj\Debug\net9.0\TriangleTypeClassifier.csproj.CoreCompileInputs.cache
+C:\Users\LF\Desktop\CV og ansøgninger\Tasks\TriangleClassifier\TriangleTypeClassifier\obj\Debug\net9.0\TriangleTypeClassifier.sourcelink.json
+C:\Users\LF\Desktop\CV og ansøgninger\Tasks\TriangleClassifier\TriangleTypeClassifier\obj\Debug\net9.0\TriangleTypeClassifier.dll
+C:\Users\LF\Desktop\CV og ansøgninger\Tasks\TriangleClassifier\TriangleTypeClassifier\obj\Debug\net9.0\refint\TriangleTypeClassifier.dll
+C:\Users\LF\Desktop\CV og ansøgninger\Tasks\TriangleClassifier\TriangleTypeClassifier\obj\Debug\net9.0\TriangleTypeClassifier.pdb
+C:\Users\LF\Desktop\CV og ansøgninger\Tasks\TriangleClassifier\TriangleTypeClassifier\obj\Debug\net9.0\TriangleTypeClassifier.genruntimeconfig.cache
+C:\Users\LF\Desktop\CV og ansøgninger\Tasks\TriangleClassifier\TriangleTypeClassifier\obj\Debug\net9.0\ref\TriangleTypeClassifier.dll

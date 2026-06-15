@@ -11,7 +11,7 @@ public enum TriangleType
 }
 
 /// <summary>
-/// TriangleClassifier that classifies a given triangle based on the lengths of its sides.
+/// TriangleTypeClassifier that classifies a given triangle based on the lengths of its sides.
 /// </summary>
 public static class TriangleTypeClassifier
 {
@@ -25,7 +25,7 @@ public static class TriangleTypeClassifier
     /// <exception cref="ArgumentException">Throws if the given sides do not form a valid triangle.</exception>
     public static TriangleType DetermineTriangleType(double sideA, double sideB, double sideC)
     {
-        ValidateTriangle(sideA, sideB, sideC);
+        Validate(sideA, sideB, sideC);
 
         if (sideA == sideB && sideB == sideC)
         {
@@ -46,7 +46,7 @@ public static class TriangleTypeClassifier
     /// <param name="sideA">Length of the side A</param>
     /// <param name="sideB">Length of the side B</param>
     /// <param name="sideC">Length of the side C</param>
-    private static void ValidateTriangle(double sideA, double sideB, double sideC)
+    private static void Validate(double sideA, double sideB, double sideC)
     {
         ValidateSideLength(sideA, nameof(sideA));
         ValidateSideLength(sideB, nameof(sideB));
