@@ -29,8 +29,9 @@ public class TriangleTypeClassifierTests
     }
 
     [TestCase(double.PositiveInfinity, 3, 3)]
+    [TestCase(double.NegativeInfinity, 3, 3)]
     [TestCase(double.NaN, 3, 3)]
-    public void DetermineTriangleType_Given_Infinite_Side_Throws_ArgumentException(
+    public void DetermineTriangleType_Given_Non_Finite_Side_Throws_ArgumentException(
         double sideA,
         double sideB,
         double sideC)
@@ -42,10 +43,8 @@ public class TriangleTypeClassifierTests
                 sideC));
     }
 
-
     [TestCase(0, 3, 3)]
     [TestCase(-3, 3, 3)]
-    [TestCase(double.NegativeInfinity, 3, 3)]
     public void DetermineTriangleType_Given_Zero_Or_Negative_Side_Throws_ArgumentOutOfRangeException(
         double sideA,
         double sideB,

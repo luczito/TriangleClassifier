@@ -63,13 +63,13 @@ public static class TriangleTypeClassifier
     /// <exception cref="ArgumentException">Throws if the side length is not greater than zero</exception>
     private static void ValidateSideLength(double sideLength, string sideName)
     {
-        if (sideLength <= 0)
-        {
-            throw new ArgumentOutOfRangeException($"Triangle side {sideName} must be greater than zero but was {sideLength}.");
-        }
         if (!double.IsFinite(sideLength))
         {
-            throw new ArgumentException($"Triangle side {sideName} must not be infinite but was {sideLength}.");
+            throw new ArgumentException($"Triangle side {sideName} must be finite but was {sideLength}.");
+        }
+        if (sideLength <= 0)
+        {
+            throw new ArgumentOutOfRangeException(sideName, sideLength, "Triangle side must be greater than zero.");
         }
     }
 
