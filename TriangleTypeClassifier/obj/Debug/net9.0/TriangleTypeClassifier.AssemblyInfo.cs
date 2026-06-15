@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TriangleTypeClassifier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+109e8c7f694ec265fce688263618fec2742caaeb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27c31d4c227f9ebdb41180e8dd1712a0a8a23931")]
 [assembly: System.Reflection.AssemblyProductAttribute("TriangleTypeClassifier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TriangleTypeClassifier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

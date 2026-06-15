@@ -21,6 +21,7 @@ public class TriangleTypeClassifierTests
         Assert.That(result, Is.EqualTo(expected));
     }
 
+    [Test]
     public void DetermineTriangleType_Given_Inequal_Triangle_Sides_Throws_ArgumentException()
     {
         Assert.Throws<ArgumentException>(
